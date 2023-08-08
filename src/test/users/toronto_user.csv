@@ -1,0 +1,101 @@
+Bet,Odds,Outcome,Type,Sport,League,Team,Market_Type
+1,64,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+2,267,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+3,-288,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+4,-21,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+5,-250,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+6,9,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+7,-165,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+8,-285,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+9,-457,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+10,-71,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+11,486,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+12,-316,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+13,266,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+14,365,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+15,420,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+16,-15,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+17,226,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+18,-24,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+19,462,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+20,-484,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+21,-256,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+22,-295,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+23,218,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+24,-16,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+25,107,W,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+26,165,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+27,-125,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+28,491,L,Straight,Hockey,NHL,Toronto Maple Leafs,h2h
+29,-306,L,Straight,Football,CFL,Toronto Argonauts,h2h
+30,-450,L,Straight,Football,CFL,Toronto Argonauts,h2h
+31,22,L,Straight,Football,CFL,Toronto Argonauts,h2h
+32,-38,L,Straight,Football,CFL,Toronto Argonauts,h2h
+33,-142,L,Straight,Football,CFL,Toronto Argonauts,h2h
+34,-3,L,Straight,Football,CFL,Toronto Argonauts,h2h
+35,-296,W,Straight,Football,CFL,Toronto Argonauts,h2h
+36,122,W,Straight,Football,CFL,Toronto Argonauts,h2h
+37,18,W,Straight,Football,CFL,Toronto Argonauts,h2h
+38,-405,W,Straight,Football,CFL,Toronto Argonauts,h2h
+39,-207,W,Straight,Football,CFL,Toronto Argonauts,h2h
+40,80,L,Straight,Football,CFL,Toronto Argonauts,h2h
+41,-392,L,Straight,Football,CFL,Toronto Argonauts,h2h
+42,-41,L,Straight,Football,CFL,Toronto Argonauts,h2h
+43,326,L,Straight,Football,CFL,Toronto Argonauts,h2h
+44,-160,L,Straight,Football,CFL,Toronto Argonauts,h2h
+45,-261,L,Straight,Football,CFL,Toronto Argonauts,h2h
+46,293,W,Straight,Football,CFL,Toronto Argonauts,h2h
+47,-294,W,Straight,Football,CFL,Toronto Argonauts,h2h
+48,201,W,Straight,Football,CFL,Toronto Argonauts,h2h
+49,-150,W,Straight,Football,CFL,Toronto Argonauts,h2h
+50,434,W,Straight,Football,CFL,Toronto Argonauts,h2h
+51,491,W,Straight,Football,CFL,Toronto Argonauts,h2h
+52,-404,W,Straight,Football,CFL,Toronto Argonauts,h2h
+53,232,W,Straight,Football,CFL,Toronto Argonauts,h2h
+54,218,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+55,37,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+56,388,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+57,9,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+58,-187,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+59,487,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+60,4,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+61,66,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+62,396,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+63,353,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+64,104,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+65,436,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+66,-363,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+67,-464,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+68,-350,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+69,-105,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+70,5,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+71,-296,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+72,345,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+73,-166,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+74,-209,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+75,-220,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+76,426,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+77,4,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+78,141,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+79,-205,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+80,193,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+81,410,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+82,64,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+83,419,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+84,-14,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+85,431,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+86,-430,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+87,313,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+88,-468,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+89,250,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+90,-364,L,Straight,Basketball,NBA,Toronto Raptors,h2h
+91,-143,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+92,-277,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+93,-206,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+94,-363,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+95,-103,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+96,-79,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+97,-302,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+98,273,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+99,-79,W,Straight,Basketball,NBA,Toronto Raptors,h2h
+100,-164,W,Straight,Basketball,NBA,Toronto Raptors,h2h

@@ -1,0 +1,101 @@
+Bet,Odds,Outcome,Type,Sport,League,Team,Market_Type
+1,397,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+2,-57,L,Straight,Baseball,MLB,Chicago White Sox,h2h
+3,-93,W,Straight,Baseball,MLB,Atlanta Braves,h2h
+4,-129,W,Straight,Baseball,MLB,Pittsburgh Pirates,h2h
+5,-253,W,Straight,Baseball,MLB,Miami Marlins,h2h
+6,247,W,Straight,Baseball,MLB,Chicago Cubs,h2h
+7,390,W,Straight,Baseball,MLB,Kansas City Royals,h2h
+8,304,W,Straight,Baseball,MLB,Baltimore Orioles,h2h
+9,-386,W,Straight,Baseball,MLB,Baltimore Orioles,h2h
+10,-216,L,Straight,Baseball,MLB,Baltimore Orioles,h2h
+11,461,L,Straight,Baseball,MLB,New York Mets,h2h
+12,481,L,Straight,Baseball,MLB,New York Mets,h2h
+13,-203,L,Straight,Baseball,MLB,New York Mets,h2h
+14,369,L,Straight,Baseball,MLB,New York Mets,h2h
+15,-498,L,Straight,Baseball,MLB,Houston Astros,h2h
+16,249,L,Straight,Baseball,MLB,Houston Astros,h2h
+17,495,W,Straight,Baseball,MLB,Houston Astros,h2h
+18,112,W,Straight,Baseball,MLB,Houston Astros,h2h
+19,124,W,Straight,Baseball,MLB,Oakland Athletics,h2h
+20,-434,W,Straight,Baseball,MLB,Oakland Athletics,h2h
+21,438,W,Straight,Baseball,MLB,Oakland Athletics,h2h
+22,-37,W,Straight,Baseball,MLB,Colorado Rockies,h2h
+23,459,W,Straight,Baseball,MLB,Colorado Rockies,h2h
+24,-55,W,Straight,Baseball,MLB,Colorado Rockies,h2h
+25,19,W,Straight,Baseball,MLB,Seattle Mariners,h2h
+26,111,L,Straight,Baseball,MLB,Seattle Mariners,h2h
+27,-335,L,Straight,Baseball,MLB,Seattle Mariners,h2h
+28,43,L,Straight,Baseball,MLB,Texas Rangers,h2h
+29,196,L,Straight,Baseball,MLB,Texas Rangers,h2h
+30,-106,L,Straight,Baseball,MLB,Texas Rangers,h2h
+31,282,L,Straight,Baseball,MLB,Detroit Tigers,h2h
+32,-169,L,Straight,Baseball,MLB,Detroit Tigers,h2h
+33,230,L,Straight,Baseball,MLB,Detroit Tigers,h2h
+34,-499,L,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+35,-40,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+36,112,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+37,-60,W,Straight,Baseball,MLB,Milwaukee Brewers,h2h
+38,-15,W,Straight,Baseball,MLB,Milwaukee Brewers,h2h
+39,-204,W,Straight,Baseball,MLB,Milwaukee Brewers,h2h
+40,-385,L,Straight,Baseball,MLB,Milwaukee Brewers,h2h
+41,213,L,Straight,Baseball,MLB,Cincinatti Reds,h2h
+42,86,L,Straight,Baseball,MLB,Cincinatti Reds,h2h
+43,108,L,Straight,Baseball,MLB,Cincinatti Reds,h2h
+44,-424,L,Straight,Baseball,MLB,Cincinatti Reds,h2h
+45,-34,L,Straight,Baseball,MLB,New York Yankees,h2h
+46,-63,W,Straight,Baseball,MLB,New York Yankees,h2h
+47,66,W,Straight,Baseball,MLB,New York Yankees,h2h
+48,444,W,Straight,Baseball,MLB,San Franciso Giants,h2h
+49,-364,W,Straight,Baseball,MLB,San Franciso Giants,h2h
+50,-41,W,Straight,Baseball,MLB,San Franciso Giants,h2h
+51,1,W,Straight,Baseball,MLB,San Franciso Giants,h2h
+52,368,W,Straight,Baseball,MLB,San Franciso Giants,h2h
+53,-492,W,Straight,Baseball,MLB,Washington Nationals,h2h
+54,175,W,Straight,Baseball,MLB,Washington Nationals,h2h
+55,-433,W,Straight,Baseball,MLB,Washington Nationals,h2h
+56,183,W,Straight,Baseball,MLB,Washington Nationals,h2h
+57,-90,L,Straight,Baseball,MLB,Washington Nationals,h2h
+58,-273,L,Straight,Baseball,MLB,Minnesota Twins,h2h
+59,219,L,Straight,Baseball,MLB,Minnesota Twins,h2h
+60,-101,L,Straight,Baseball,MLB,Minnesota Twins,h2h
+61,362,L,Straight,Baseball,MLB,Minnesota Twins,h2h
+62,-418,L,Straight,Baseball,MLB,Minnesota Twins,h2h
+63,-426,L,Straight,Baseball,MLB,Pittsburgh Pirates,h2h
+64,85,L,Straight,Baseball,MLB,Detroit Tigers,h2h
+65,250,L,Straight,Baseball,MLB,Detroit Tigers,h2h
+66,314,L,Straight,Baseball,MLB,New York Mets,h2h
+67,351,L,Straight,Baseball,MLB,New York Mets,h2h
+68,171,W,Straight,Baseball,MLB,Los Angeles Dodgers,h2h
+69,-471,W,Straight,Baseball,MLB,Los Angeles Dodgers,h2h
+70,331,W,Straight,Baseball,MLB,Los Angeles Dodgers,h2h
+71,-492,W,Straight,Baseball,MLB,Los Angeles Dodgers,h2h
+72,357,W,Straight,Baseball,MLB,Tampa Bay Rays,h2h
+73,204,L,Straight,Baseball,MLB,Tampa Bay Rays,h2h
+74,173,W,Straight,Baseball,MLB,Tampa Bay Rays,h2h
+75,114,L,Straight,Baseball,MLB,Tampa Bay Rays,h2h
+76,-247,W,Straight,Baseball,MLB,Boston Red Sox,h2h
+77,87,W,Straight,Baseball,MLB,Boston Red Sox,h2h
+78,256,W,Straight,Baseball,MLB,Boston Red Sox,h2h
+79,238,W,Straight,Baseball,MLB,Boston Red Sox,h2h
+80,406,W,Straight,Baseball,MLB,Arizona Diamondbacks,h2h
+81,451,W,Straight,Baseball,MLB,Arizona Diamondbacks,h2h
+82,14,W,Straight,Baseball,MLB,Arizona Diamondbacks,h2h
+83,-114,W,Straight,Baseball,MLB,Arizona Diamondbacks,h2h
+84,43,W,Straight,Baseball,MLB,Cleveland Guardians,h2h
+85,-335,W,Straight,Baseball,MLB,Cleveland Guardians,h2h
+86,-498,L,Straight,Baseball,MLB,Cleveland Guardians,h2h
+87,-449,L,Straight,Baseball,MLB,St. Louis Cardinals,h2h
+88,-224,L,Straight,Baseball,MLB,St. Louis Cardinals,h2h
+89,-97,L,Straight,Baseball,MLB,St. Louis Cardinals,h2h
+90,344,L,Straight,Baseball,MLB,St. Louis Cardinals,h2h
+91,-496,W,Straight,Baseball,MLB,Oakland Athletics,h2h
+92,448,W,Straight,Baseball,MLB,Oakland Athletics,h2h
+93,260,W,Straight,Baseball,MLB,Oakland Athletics,h2h
+94,373,W,Straight,Baseball,MLB,Colorado Rockies,h2h
+95,316,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h
+96,47,W,Straight,Baseball,MLB,Chicago White Sox,h2h
+97,439,W,Straight,Baseball,MLB,Atlanta Braves,h2h
+98,434,W,Straight,Baseball,MLB,Pittsburgh Pirates,h2h
+99,459,W,Straight,Baseball,MLB,Miami Marlins,h2h
+100,381,W,Straight,Baseball,MLB,Toronto Blue Jays,h2h

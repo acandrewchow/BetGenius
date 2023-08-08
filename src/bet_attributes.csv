@@ -1,0 +1,101 @@
+Bet,Odds,Outcome,Type,Sport,League,Team,Market_Type
+1,270,L,Straight,Basketball,WNBA,Los Angeles Sparks,h2h
+2,-50,L,Straight,Rugby Union,World Cup,Australia,h2h
+3,261,L,Straight,American Football,CFL,Hamilton Tiger-Cats,h2h
+4,-259,L,Straight,Aussie Rules,AFL,Hawthorn Hawks,h2h
+5,-329,W,Straight,Aussie Rules,AFL,Adelaide Crows,h2h
+6,-173,L,Straight,Baseball,MLB,San Francisco Giants,h2h
+7,-9,L,Straight,Baseball,MLB,Chicago Cubs,h2h
+8,334,L,Straight,Rugby Union,World Cup,Uruguay,h2h
+9,-323,L,Straight,Rugby League,NRL,North Queensland Cowboys,h2h
+10,-334,W,Straight,Basketball,WNBA,Seattle Storm,h2h
+11,350,W,Straight,Baseball,MLB,Houston Astros,h2h
+12,-454,W,Straight,Rugby League,NRL,Sydney Roosters,h2h
+13,-466,L,Straight,Rugby Union,World Cup,Namibia,h2h
+14,425,L,Straight,Rugby League,NRL,Warriors,h2h
+15,-374,W,Straight,Rugby League,NRL,Gold Coast Titans,h2h
+16,198,W,Straight,Cricket,International Twenty20,Croatia,h2h
+17,135,L,Straight,Aussie Rules,AFL,Essendon Bombers,h2h
+18,66,W,Straight,Baseball,MLB,St. Louis Cardinals,h2h
+19,-139,W,Straight,Mixed Martial Arts,MMA,Amanda Lemos,h2h
+20,-153,L,Straight,Cricket,International Twenty20,Botswana,h2h
+21,-184,L,Straight,Basketball,WNBA,Seattle Storm,h2h
+22,-396,W,Straight,Baseball,MLB,Miami Marlins,h2h
+23,493,L,Straight,Aussie Rules,AFL,Port Adelaide Power,h2h
+24,215,L,Straight,Baseball,MLB,Washington Nationals,h2h
+25,-66,L,Straight,Boxing,Boxing,Gemma Ruegg,h2h
+26,-458,L,Straight,Mixed Martial Arts,MMA,Marcus McGhee,h2h
+27,146,W,Straight,Baseball,MLB,Cleveland Guardians,h2h
+28,-384,W,Straight,American Football,NFL Preseason,Buffalo Bills,h2h
+29,221,L,Straight,Rugby Union,World Cup,Australia,h2h
+30,-325,W,Straight,Boxing,Boxing,Jaron Ennis,h2h
+31,19,L,Straight,Mixed Martial Arts,MMA,Alexa Grasso,h2h
+32,258,L,Straight,Rugby League,NRL,St George Illawarra Dragons,h2h
+33,-429,L,Straight,Mixed Martial Arts,MMA,Aleksa Camur,h2h
+34,350,W,Straight,Basketball,WNBA,Los Angeles Sparks,h2h
+35,-237,W,Straight,Rugby League,NRL,Sydney Roosters,h2h
+36,-304,L,Straight,Cricket,The Hundred,Northern Superchargers,h2h
+37,-402,L,Straight,Boxing,Boxing,Argi Cortes,h2h
+38,-27,W,Straight,Rugby Union,World Cup,Chile,h2h
+39,-311,W,Straight,Rugby League,NRL,Melbourne Storm,h2h
+40,67,W,Straight,Boxing,Boxing,Jake Amparo,h2h
+41,174,W,Straight,Cricket,The Hundred,Northern Superchargers,h2h
+42,-142,W,Straight,Aussie Rules,AFL,Collingwood Magpies,h2h
+43,-386,L,Straight,Rugby League,NRL,North Queensland Cowboys,h2h
+44,-125,W,Straight,Rugby League,NRL,Manly Warringah Sea Eagles,h2h
+45,-11,W,Straight,Rugby Union,World Cup,Japan,h2h
+46,-499,L,Straight,Rugby Union,World Cup,England,h2h
+47,301,W,Straight,Rugby League,NRL,Wests Tigers,h2h
+48,-437,W,Straight,Basketball,WNBA,Indiana Fever,h2h
+49,254,W,Straight,Mixed Martial Arts,MMA,L'udovit Klein,h2h
+50,-16,W,Straight,Basketball,WNBA,New York Liberty,h2h
+51,-317,L,Straight,Basketball,WNBA,Las Vegas Aces,h2h
+52,472,L,Straight,Baseball,MLB,Atlanta Braves,h2h
+53,-2,L,Straight,Aussie Rules,AFL,Brisbane Lions,h2h
+54,-453,L,Straight,American Football,NFL Preseason,Pittsburgh Steelers,h2h
+55,363,L,Straight,Baseball,MLB,Milwaukee Brewers,h2h
+56,187,L,Straight,Rugby League,NRL,Manly Warringah Sea Eagles,h2h
+57,250,W,Straight,Cricket,International Twenty20,Netherlands,h2h
+58,-415,W,Straight,Boxing,Boxing,Emmanuel Rodriguez,h2h
+59,182,L,Straight,Aussie Rules,AFL,Carlton Blues,h2h
+60,-52,W,Straight,Rugby Union,World Cup,Italy,h2h
+61,156,L,Straight,Baseball,MLB,Washington Nationals,h2h
+62,361,W,Straight,Cricket,International Twenty20,Bangladesh,h2h
+63,229,W,Straight,Basketball,WNBA,Seattle Storm,h2h
+64,350,L,Straight,Cricket,International Twenty20,Cyprus,h2h
+65,-156,W,Straight,Rugby Union,World Cup,Chile,h2h
+66,-312,L,Straight,American Football,NCAAF,Liberty Flames,h2h
+67,-275,W,Straight,American Football,NCAAF,USC Trojans,h2h
+68,-488,W,Straight,Rugby Union,World Cup,New Zealand,h2h
+69,-488,L,Straight,Baseball,MLB,Tampa Bay Rays,h2h
+70,186,W,Straight,Mixed Martial Arts,MMA,Francis Marshall,h2h
+71,-176,W,Straight,Cricket,International Twenty20,Kuwait,h2h
+72,149,L,Straight,Aussie Rules,AFL,Richmond Tigers,h2h
+73,-190,W,Straight,Boxing,Boxing,Angel Beltran,h2h
+74,175,L,Straight,Cricket,The Hundred,Southern Brave,h2h
+75,480,W,Straight,Rugby League,NRL,St George Illawarra Dragons,h2h
+76,75,W,Straight,Boxing,Boxing,Monserrat Alarcon,h2h
+77,388,W,Straight,Boxing,Boxing,Tom Ansell,h2h
+78,396,L,Straight,Basketball,WNBA,New York Liberty,h2h
+79,-413,L,Straight,Mixed Martial Arts,MMA,Raoni Barcelos,h2h
+80,-350,W,Straight,Basketball,WNBA,Minnasota Lynx,h2h
+81,283,L,Straight,American Football,NCAAF,Baylor Bears,h2h
+82,67,L,Straight,Cricket,International Twenty20,Panama,h2h
+83,-46,L,Straight,Rugby Union,World Cup,Tonga,h2h
+84,484,L,Straight,American Football,NCAAF,Eastern Michigan Eagles,h2h
+85,-408,W,Straight,American Football,CFL,Calgary Stampeders,h2h
+86,-22,W,Straight,Cricket,The Hundred,Welsh Fire,h2h
+87,117,W,Straight,Cricket,The Hundred,Welsh Fire,h2h
+88,-367,W,Straight,Basketball,WNBA,New York Liberty,h2h
+89,133,W,Straight,Basketball,WNBA,Los Angeles Sparks,h2h
+90,404,L,Straight,Aussie Rules,AFL,West Coast Eagles,h2h
+91,148,W,Straight,Cricket,International Twenty20,Switzerland,h2h
+92,74,L,Straight,American Football,NFL,Indianapolis Colts,h2h
+93,425,W,Straight,Rugby League,NRL,Sydney Roosters,h2h
+94,-438,L,Straight,Aussie Rules,AFL,Port Adelaide Power,h2h
+95,-382,W,Straight,Rugby League,NRL,South Sydney Rabbitohs,h2h
+96,-292,W,Straight,Cricket,The Hundred,London Spirit,h2h
+97,376,L,Straight,American Football,NFL,Kanas City Chiefs,h2h
+98,223,W,Straight,Cricket,International Twenty20,Canada,h2h
+99,148,L,Straight,Basketball,WNBA,Chicago Sky,h2h
+100,437,L,Straight,Boxing,Boxing,William Silva,h2h
